@@ -16,8 +16,6 @@ JavaScript: Interações dinâmicas.
 
 ## Como Usar
 
-Clone o repositório:
-```
-git clone https://github.com/usuario/projeto.git
-```
+Como Usar
+Clone ou baixe o repositório.
 Abra index.html no navegador.
