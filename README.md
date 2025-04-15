@@ -1,21 +1,23 @@
-### Projeto Web
-Este projeto é uma página web com formulário de contato, exibição de redes sociais e mapa de localização, totalmente responsiva.
+# Projeto Awax
+
+Este projeto é um site responsivo desenvolvido com HTML e CSS, focado em design moderno e funcionalidade. O site apresenta seções como "Sobre nós", "Serviços", "Projetos" e "Contato", proporcionando uma experiência de usuário intuitiva.
 
 ## Funcionalidades
 
-Formulário de Contato: Envio de mensagens.
-Redes Sociais: Links para redes sociais.
-Mapa: Exibe informações de localização.
-Responsividade: Design adaptável para desktop, tablet e mobile.
+- **Design Responsivo**: O layout se adapta a diferentes tamanhos de tela.
+- **Navegação Intuitiva**: Menus claros e acessíveis.
+- **Seções Informativas**: Detalhes sobre a empresa, serviços oferecidos e projetos realizados.
+- **Formulário de Contato**: Permite que os usuários entrem em contato facilmente.
 
-## Tecnologias
+## Tecnologias Utilizadas
 
-HTML5: Estrutura da página.
-CSS3: Estilo e responsividade.
-JavaScript: Interações dinâmicas.
+- HTML
+- CSS
 
 ## Como Usar
 
-Como Usar
-Clone ou baixe o repositório.
-Abra index.html no navegador.
+1. Clone o repositório.
+2. Abra o arquivo `index.html` em um navegador.
+3. Navegue pelas seções e explore o conteúdo.
+
+
